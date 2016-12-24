@@ -1,0 +1,26 @@
+{
+  "name": "18.12.16_HW",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  },
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  },
+  "scripts": {
+    "start": "http-server -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuliiaKravchenko/09.12.16_HW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuliiaKravchenko/09.12.16_HW/issues"
+  },
+  "homepage": "https://github.com/YuliiaKravchenko/09.12.16_HW#readme"
+}
